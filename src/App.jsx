@@ -10,7 +10,7 @@ import "./App.css";
 function App() {
   const [currentTab, handleTabChange] = useState("about");
 
-  // Check to see what the value of "currentTab" it is. 
+  // Check if see what the value of "currentTab" it is. 
   // It returns the corresponding component to render, depending on the value of "currentPage".
   const renderTab = () => {
     if (currentTab === "About") {
