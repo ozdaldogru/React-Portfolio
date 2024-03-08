@@ -1,3 +1,9 @@
+import p1 from "../image/p1.png";
+import p2 from "../image/p1.png";
+import p3 from "../image/p1.png";
+import p4 from "../image/p1.png";
+import p5 from "../image/p1.png";
+import p6 from "../image/p1.png";
 
 function Portfolio() {
   return (
@@ -13,14 +19,14 @@ function Portfolio() {
               <a href="">
                 {" "}
                 <img
-                  src={}
+                  src={p1}
                   className="my-2"
                   style={{ width: "100%" }}
-                  alt=""
+                  alt="project image"
                 />
               </a>
             </div>
-                        <div className="job-text">
+            <div className="job-text">
               <h4>Project-1</h4>
               <p>
                 Project-1 description
@@ -35,10 +41,10 @@ function Portfolio() {
               <a href="">
                 {" "}
                 <img
-                  src={}
+                  src={p2}
                   className="my-2"
                   style={{ width: "100%" }}
-                  alt=""
+                  alt="project image"
                 />
               </a>
             </div>
@@ -57,10 +63,10 @@ function Portfolio() {
               <a href="">
                 {" "}
                 <img
-                  src={}
+                  src={p3}
                   className="my-2"
                   style={{ width: "100%" }}
-                  alt=""
+                  alt="project image"
                 />
               </a>
             </div>
@@ -79,10 +85,10 @@ function Portfolio() {
               <a href="">
                 {" "}
                 <img
-                  src={}
+                  src={p4}
                   className="my-2"
                   style={{ width: "100%" }}
-                  alt=""
+                  alt="project image"
                 />
               </a>
             </div>
@@ -101,10 +107,10 @@ function Portfolio() {
               <a href="">
                 {" "}
                 <img
-                  src={}
+                  src={p5}
                   className="my-2"
                   style={{ width: "100%" }}
-                  alt=""
+                  alt="project image"
                 />
               </a>
             </div>
@@ -123,10 +129,10 @@ function Portfolio() {
               <a href="">
                 {" "}
                 <img
-                  src={}
+                  src={p6}
                   className="my-2"
                   style={{ width: "100%" }}
-                  alt=""
+                  alt="project image"
                 />
               </a>
             </div>

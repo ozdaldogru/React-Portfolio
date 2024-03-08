@@ -1,4 +1,4 @@
-import myImage from "../../../src/assets/EB0737.jpg";
+import myImage from "../image/myImage.png";
 
 function About() {
   return (
